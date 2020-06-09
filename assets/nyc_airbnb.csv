@@ -1,4 +1,4 @@
-"listing_id","description","host_id","host_name","nbhood_full","coordinates","room_type","price","nb_reviews","last_review","reviews_per_month","availability_365","avg_rating","nb_stays","pct_5_stars","listing_added"
+"listing_id","description","host_id","host_name","nbhood_full","coordinates","room_type","price","nb_reviews","last_review","reviews_per_month","availability_365","avg_rating","avg_stays_per_month","pct_5_stars","listing_added"
 13740704,"Cozy,budget friendly, cable inc, private entrance!",20583125,"Michel","Brooklyn, Flatlands","(40.63222, -73.93398)","Private room","$45",10,"2018-12-12",0.7,85,4.10095356865049,12,0.609431504712849,"2018-06-08"
 22005115,"Two floor apartment near Central Park",82746113,"Cecilia","Manhattan, Upper West Side","(40.78761, -73.96862)","Entire home/apt","$135",1,"2019-06-30",1,145,3.36759984148828,1.2,0.746134590410589,"2018-12-25"
 21667615,"Beautiful 1BR in Brooklyn Heights",78251,"Leslie","Brooklyn, Brooklyn Heights","(40.7007, -73.99517)","Entire home/apt","$150",0,"",NA,65,NA,NA,NA,"2018-08-15"
